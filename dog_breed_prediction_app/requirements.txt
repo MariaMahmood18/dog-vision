@@ -3,6 +3,6 @@ numpy==1.25.2
 Pillow==11.0.0
 seaborn==0.13.2
 streamlit==1.41.0
-tensorflow==2.15.0
+tensorflow==2.18.0
 tensorflow_hub==0.15.0
 tensorflow_intel==2.15.0
